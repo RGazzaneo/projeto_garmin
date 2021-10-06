@@ -1,0 +1,17 @@
+criar velocidade m/s
+
+converter tempo para sec
+
+converter distancia p/metro
+numero.algumacoisa = km
+numero,algumacoisa = m
+algumacoisa = m
+
+melhor ritimo
+natação numero: -> pace min:sec por 100 metros
+corrida numero: -> pace min:sec por km
+numero. -> km/h
+
+cadencia media
+Unidade de eficiencia
+bike(giro do pedal)/corrida(ciclo de passadas)/natação(calculo de eficiencia de braçada)
